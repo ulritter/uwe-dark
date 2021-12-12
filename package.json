@@ -15,6 +15,11 @@
                 "label": "Uwe Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Uwe Dark-color-theme.json"
+            },
+            {
+                "label": "Uwe Dark2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Uwe Dark-color-theme-2.json"
             }
         ]
     }
